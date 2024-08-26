@@ -4,7 +4,7 @@
       "countryname": "Turkey",
       "code": "TR",
       "id": "101",
-      "flag": "https://flagsapi.com/TR/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png",
       "continent": "Asia",
       "capital": "Ankara",
       "currency": "TRY"
@@ -13,7 +13,7 @@
       "countryname": "Canada",
       "code": "CA",
       "id": "102",
-      "flag": "https://flagsapi.com/CA/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
       "continent": "North America",
       "capital": "Attawa",
       "currency": "CAD"
@@ -22,7 +22,7 @@
       "countryname": "Belize",
       "code": "BZ",
       "id": "103",
-      "flag": "https://flagsapi.com/BZ/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-19-1536x1024.jpg",
       "continent": "North America",
       "capital": "Belmopan",
       "currency": "BZD"
@@ -31,7 +31,7 @@
       "countryname": "Switzerland",
       "code": "CH",
       "id": "104",
-      "flag": "https://flagsapi.com/CH/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png",
       "continent": "Europe",
       "capital": "Bern",
       "currency": "CHE"
@@ -40,7 +40,7 @@
       "countryname": "China",
       "code": "CN",
       "id": "105",
-      "flag": "https://flagsapi.com/CN/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
       "continent": "Asia",
       "capital": "Beijing",
       "currency": "CNY"
@@ -49,7 +49,7 @@
       "countryname": "Colombia",
       "code": "CO",
       "id": "106",
-      "flag": "https://flagsapi.com/CO/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png",
       "continent": "South America",
       "capital": "Willemstad",
       "currency": "ANG"
@@ -58,7 +58,7 @@
       "countryname": "Costa Rica",
       "code": "CR",
       "id": "107",
-      "flag": "https://flagsapi.com/CR/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/costa-rica-flag-png-large.png",
       "continent": "North America",
       "capital": "San Jos√©",
       "currency": "CRC"
@@ -67,7 +67,7 @@
       "countryname": "Germany",
       "code": "DE",
       "id": "108",
-      "flag": "https://flagsapi.com/DE/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
       "continent": "Europe",
       "capital": "Berlin",
       "currency": "EUR"
@@ -76,7 +76,7 @@
       "countryname": "Denmark",
       "code": "DK",
       "id": "109",
-      "flag": "https://flagsapi.com/DK/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png",
       "continent": "Europe",
       "capital": "Copenhagen",
       "currency": "DKK"
@@ -85,7 +85,7 @@
       "countryname": "Egypt",
       "code": "EG",
       "id": "110",
-      "flag": "https://flagsapi.com/EG/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/egypt-flag-png-large.png",
       "continent": "Africa",
       "capital": "Cairo",
       "currency": "EGP"
@@ -94,7 +94,7 @@
       "countryname": "United Kingdom",
       "code": "GB",
       "id": "111",
-      "flag": "https://flagsapi.com/GB/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
       "continent": "Europe",
       "capital": "London",
       "currency": "GBP"
@@ -103,7 +103,7 @@
       "countryname": "Italy",
       "code": "IT",
       "id": "112",
-      "flag": "https://flagsapi.com/IT/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
       "continent": "Europe",
       "capital": "Rome",
       "currency": "EUR"
@@ -112,7 +112,7 @@
       "countryname": "Iceland",
       "code": "IS",
       "id": "113",
-      "flag": "https://flagsapi.com/IS/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png",
       "continent": "Europe",
       "capital": "Reykjavik",
       "currency": "ISK"
@@ -121,7 +121,7 @@
       "countryname": "United States",
       "code": "US",
       "id": "114",
-      "flag": "https://flagsapi.com/US/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
       "continent": "North America",
       "capital": "Washington D.C.",
       "currency": "USD"
@@ -130,7 +130,7 @@
       "countryname": "South Africa",
       "code": "ZA",
       "id": "115",
-      "flag": "https://flagsapi.com/ZA/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png",
       "continent": "Africa",
       "capital": "Pretoria",
       "currency": "ZAR"
@@ -139,7 +139,7 @@
       "countryname": "Uzbekistan",
       "code": "UZ",
       "id": "116",
-      "flag": "https://flagsapi.com/UZ/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png",
       "continent": "Asia",
       "capital": "Tashkent",
       "currency": "UZS"
@@ -148,7 +148,7 @@
       "countryname": "Ukraine",
       "code": "UA",
       "id": "117",
-      "flag": "https://flagsapi.com/UA/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png",
       "continent": "Europe",
       "capital": "Kyiv",
       "currency": "UAH"
@@ -157,7 +157,7 @@
       "countryname": "Thailand",
       "code": "TH",
       "id": "118",
-      "flag": "https://flagsapi.com/TH/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/thailand-flag-png-large.png",
       "continent": "Asia",
       "capital": "Bangkok",
       "currency": "THB"
@@ -166,7 +166,7 @@
       "countryname": "Somalia",
       "code": "SO",
       "id": "119",
-      "flag": "https://flagsapi.com/SO/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/somalia-flag-png-large.png",
       "continent": "Africa",
       "capital": "Mogadishu",
       "currency": "SOS"
@@ -175,7 +175,7 @@
       "countryname": "San Marino",
       "code": "SM",
       "id": "120",
-      "flag": "https://flagsapi.com/SM/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png",
       "continent": "Europe",
       "capital": "City of San Marino",
       "currency": "EUR"
@@ -184,7 +184,7 @@
       "countryname": "Slovakia",
       "code": "SK",
       "id": "121",
-      "flag": "https://flagsapi.com/SK/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png",
       "continent": "Europe",
       "capital": "Bratislava",
       "currency": "EUR"
@@ -193,7 +193,7 @@
       "countryname": "Sweden",
       "code": "SE",
       "id": "122",
-      "flag": "https://flagsapi.com/SE/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png",
       "continent": "Europe",
       "capital": "Stockholm",
       "currency": "SEK"
@@ -202,7 +202,7 @@
       "countryname": "Russia",
       "code": "RU",
       "id": "123",
-      "flag": "https://flagsapi.com/RU/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
       "continent": "Asia",
       "capital": "Moscow",
       "currency": "RUB"
@@ -211,7 +211,7 @@
       "countryname": "Pakistan",
       "code": "PK",
       "id": "124",
-      "flag": "https://flagsapi.com/PK/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png",
       "continent": "Asia",
       "capital": "Islamabad",
       "currency": "PKR"
@@ -220,7 +220,7 @@
       "countryname": "Panama",
       "code": "PA",
       "id": "125",
-      "flag": "https://flagsapi.com/US/shiny/64.png",
+      "flag": "https://www.countryflags.com/wp-content/uploads/panama-flag-png-large.png",
       "continent": "North America",
       "capital": "Panama City",
       "currency": "PAB"
