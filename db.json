@@ -7,6 +7,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/turkey-flag-png-large.png",
       "continent": "Asia",
       "capital": "Ankara",
+      "timezone": "UTC +03:00",
+      "language": "Turkish",
       "currency": "TRY"
     },
     {
@@ -16,6 +18,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
       "continent": "North America",
       "capital": "Attawa",
+      "timezone": "UTC -05:00, UTC -04:00, UTC -06:00, etc",
+      "language": "English, French",
       "currency": "CAD"
     },
     {
@@ -25,6 +29,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-19-1536x1024.jpg",
       "continent": "North America",
       "capital": "Belmopan",
+      "timezone": "UTC -06:00",
+      "language": "English",
       "currency": "BZD"
     },
     {
@@ -34,6 +40,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png",
       "continent": "Europe",
       "capital": "Bern",
+      "timezone": "UTC +02:00",
+      "language": "German, French, Italian, Romansh",
       "currency": "CHE"
     },
     {
@@ -43,6 +51,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
       "continent": "Asia",
       "capital": "Beijing",
+      "timezone": "UTC +08:00, UTC +06:00",
+      "language": "Mandarin Chinese",
       "currency": "CNY"
     },
     {
@@ -52,6 +62,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png",
       "continent": "South America",
       "capital": "Willemstad",
+      "timezone": "UTC -05:00",
+      "language": "Spanish",
       "currency": "ANG"
     },
     {
@@ -61,6 +73,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/costa-rica-flag-png-large.png",
       "continent": "North America",
       "capital": "San Jos√©",
+      "timezone": "UTC -06:00",
+      "language": "Spanish",
       "currency": "CRC"
     },
     {
@@ -70,6 +84,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
       "continent": "Europe",
       "capital": "Berlin",
+      "timezone": "UTC +02:00",
+      "language": "German",
       "currency": "EUR"
     },
     {
@@ -79,6 +95,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png",
       "continent": "Europe",
       "capital": "Copenhagen",
+      "timezone": "UTC +02:00",
+      "language": "Danish",
       "currency": "DKK"
     },
     {
@@ -88,6 +106,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/egypt-flag-png-large.png",
       "continent": "Africa",
       "capital": "Cairo",
+      "timezone": "UTC +03:00",
+      "language": "Arabic",
       "currency": "EGP"
     },
     {
@@ -97,6 +117,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
       "continent": "Europe",
       "capital": "London",
+      "timezone": "UTC +01:00",
+      "language": "English",
       "currency": "GBP"
     },
     {
@@ -106,6 +128,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
       "continent": "Europe",
       "capital": "Rome",
+      "timezone": "UTC +02:00",
+      "language": "Italian",
       "currency": "EUR"
     },
     {
@@ -115,6 +139,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png",
       "continent": "Europe",
       "capital": "Reykjavik",
+      "timezone": "UTC",
+      "language": "Icelandic",
       "currency": "ISK"
     },
     {
@@ -124,6 +150,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
       "continent": "North America",
       "capital": "Washington D.C.",
+      "timezone": "UTC -09:00, UTC -08:00, UTC -06:00 , etc",
+      "language": "English",
       "currency": "USD"
     },
     {
@@ -133,6 +161,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/south-africa-flag-png-large.png",
       "continent": "Africa",
       "capital": "Pretoria",
+      "timezone": "UTC +02:00",
+      "language": "Zulu, Xhosa, Afrikaans, English, and others",
       "currency": "ZAR"
     },
     {
@@ -142,6 +172,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png",
       "continent": "Asia",
       "capital": "Tashkent",
+      "timezone": "UTC +05:00",
+      "language": "Uzbek",
       "currency": "UZS"
     },
     {
@@ -151,6 +183,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png",
       "continent": "Europe",
       "capital": "Kyiv",
+      "timezone": "UTC +03:00",
+      "language": "Ukrainian",
       "currency": "UAH"
     },
     {
@@ -160,6 +194,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/thailand-flag-png-large.png",
       "continent": "Asia",
       "capital": "Bangkok",
+      "timezone": "UTC +07:00",
+      "language": "Thai",
       "currency": "THB"
     },
     {
@@ -169,6 +205,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/somalia-flag-png-large.png",
       "continent": "Africa",
       "capital": "Mogadishu",
+      "timezone": "UTC +03:00",
+      "language": "Somali",
       "currency": "SOS"
     },
     {
@@ -178,6 +216,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png",
       "continent": "Europe",
       "capital": "City of San Marino",
+      "timezone": "UTC +02:00",
+      "language": "Italian",
       "currency": "EUR"
     },
     {
@@ -187,6 +227,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png",
       "continent": "Europe",
       "capital": "Bratislava",
+      "timezone": "UTC +02:00",
+      "language": "Slovak",
       "currency": "EUR"
     },
     {
@@ -196,6 +238,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png",
       "continent": "Europe",
       "capital": "Stockholm",
+      "timezone": "UTC +02:00",
+      "language": "Swedish",
       "currency": "SEK"
     },
     {
@@ -205,6 +249,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
       "continent": "Asia",
       "capital": "Moscow",
+      "timezone": "UTC +12:00, UTC +07:00, UTC +09:00, etc",
+      "language": "Russian",
       "currency": "RUB"
     },
     {
@@ -214,6 +260,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/pakistan-flag-png-large.png",
       "continent": "Asia",
       "capital": "Islamabad",
+      "timezone": "UTC +05:00",
+      "language": "Urdu (and English as a secondary official language)",
       "currency": "PKR"
     },
     {
@@ -223,6 +271,8 @@
       "flag": "https://www.countryflags.com/wp-content/uploads/panama-flag-png-large.png",
       "continent": "North America",
       "capital": "Panama City",
+      "timezone": "UTC -05:00",
+      "language": "Spanish",
       "currency": "PAB"
     }
   ]
